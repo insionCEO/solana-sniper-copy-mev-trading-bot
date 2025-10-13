@@ -401,7 +401,7 @@ For ultra-fast swap code using off-chain signing and custom sell logic optimizat
 - **24/7 Support**: Round-the-clock assistance
 
 ### Contact Information
-- **Telegram**: [@solbotdeveloper](https://t.me/solbotdeveloper)
+- **Telegram**: [@insionCEO](https://t.me/insionCEO)
 
 
 ## 📄 License
