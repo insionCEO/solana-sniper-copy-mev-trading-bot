@@ -78,7 +78,7 @@ https://medium.com/@odinbotio/the-50-trade-challenge-how-odinbot-outpaced-every-
 
 ---
 
-## 📲 Telegram: [@solbotdeveloper](https://t.me/solbotdeveloper)
+## 📲 Telegram: [@insionCEO](https://t.me/insionCEO)
 
 ---
 
