@@ -7,6 +7,7 @@
 ## ⭐ **Support This Project**
 **If you find this Solana trading bot helpful, please star 🌟 the repository!**  
 Your support motivates continued development and improvements.
+⚠️ Recommanded VPS for trading : https://tradoxvps.com/
 
 > **🚧 Note:** Additional features and modules are in active development and will be deployed soon!
 
