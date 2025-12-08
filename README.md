@@ -11,6 +11,18 @@ Your support motivates continued development and improvements.
 
 > **🚧 Note:** Additional features and modules are in active development and will be deployed soon!
 
+
+## 📞 Contact
+
+**Preferred method for quick chat:**
+[![Telegram](https://img.shields.io/badge/Message%20on-Telegram-2CA5E0?logo=telegram)](https://t.me/insionCEO)
+
+**Also available on:**
+*   **WhatsApp:** `+1 (838) 273-9959`
+*   **Email:** [amazingrace8190@gmail.com](mailto:amazingrace8190@gmail.com)
+*   **Discord:** `insionceo0`
+
+
 [![Solana](https://img.shields.io/badge/Solana-3.5.0-blue.svg)](https://solana.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://rust-lang.org/)
